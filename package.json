@@ -1,0 +1,25 @@
+{
+  "name": "contactlistapp",
+  "version": "1.0.0",
+  "description": "First node.js app",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongojs": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MubashirAR/MEAN-app-contact-list.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MubashirAR/MEAN-app-contact-list/issues"
+  },
+  "homepage": "https://github.com/MubashirAR/MEAN-app-contact-list#readme"
+}
